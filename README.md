@@ -1,4 +1,5 @@
-What is cohort analysis?
+# What is cohort analysis?
+
 A cohort is simply a group of people with shared characteristics.
 
 Cohort analysis is a type of behavioral analytics in which you group your users based on their shared traits to better
